@@ -5,5 +5,9 @@ function sum(a,b){
    console.log(s);
    console.log("tnaaks");
    console.log("tnaaks more");
+   console.log("tnaaks");
+   console.log("tnaaks more");
+   console.log("tnaaks");
+   console.log("tnaaks more");
 }
 console.log(sum(4,6));
